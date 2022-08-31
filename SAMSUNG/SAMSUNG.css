@@ -1,0 +1,46 @@
+
+.logo {
+    font-size:20px;
+    font-weight: bold;
+    color: #282828;
+    float: left;
+    padding: 3px;
+    margin-right: 50px;
+    margin-left: 20px;
+    
+}
+
+#topMenu {
+    height: 30px;
+    width: 100%;
+}
+
+#topMenu ul li {                     
+    list-style: none;           
+    color: black;               
+    background-color: white;  
+    float: left;               
+    line-height: 30px;         
+    vertical-align: middle;     
+    text-align: center;         
+}
+
+#topMenu .menu {                              
+    text-decoration:none;                     
+    color: black;                              
+    display: circle;                            
+    width: 100%;  
+    margin: 8px;                            
+    font-size: 16px;                           
+    font-weight: bold;                         
+    font-family: "Trebuchet MS", Dotum, Arial;
+}
+
+.buttons-top {
+    float: right;
+    vertical-align: middle; 
+}
+
+.buttons-wrap {
+    text-align:right;
+}
